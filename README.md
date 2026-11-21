@@ -4,13 +4,20 @@
 🎓 B.Sc. in Computer Science (Scientific Computing Major) — Ain Shams University (CGPA: 3.66 / 4.00)  
 📍 Cairo, Egypt  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mhmd7syn) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mohamdhussein) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedh2910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mhmd7syn) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mohamdhussein) [![ECPC](https://img.shields.io/badge/ECPC-58th_Place-FF8C00?style=flat-square&logo=cplusplus&logoColor=white)](https://www.linkedin.com/in/mhmd7syn/details/honors/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedh2910@gmail.com)
 
 ---
 
 ## 🚀 Overview
 
 AI and Data professional specializing in real-time computer vision, edge deep learning, predictive machine learning pipelines, and production backend model serving. Experienced in deploying agentic systems, microservices, and interactive analytical dashboards.
+
+## 💼 Professional Experience
+
+- **AI Engineer** @ **[Influence Targeting Marketing](https://influencetargetingmarketing.com/)** *(Oct 2026 – Present)* — Architected a multi-turn Arabic sales agent in LangGraph with dialect adaptation and guardrail handoffs.
+- **Programming Instructor** @ **[GoAcademy](https://go-academy.net/en)** *(Mar 2024 – Present)* — Maintained Platinum instructor ranking with a 4.8/5.0 rating across 570+ live technical sessions.
+- **Data Science / Analytics Intern** @ **[Orange Digital Center](https://github.com/Mhmd7syn/Data-Analysis-Orange-Internship)** *(Apr 2026 – May 2026)* — Automated data pipelines in Python and Pandas, imputing 10.4K+ missing entries via KNN & LinReg.
+- **Computer Vision Intern** @ **[Cellula Technologies](https://github.com/Mhmd7syn/Cellula-Technologies-Internship/tree/main/Vision)** *(Jan 2026 – Apr 2026)* — Built a 3D-CNN/R3D surveillance model achieving 98% accuracy on 855 clips; deployed via Django REST API.
 
 ## 🏆 Flagship & Pinned Engineering Projects
 
@@ -32,13 +39,10 @@ AI and Data professional specializing in real-time computer vision, edge deep le
 - **Data Analytics & Business Intelligence**: Power BI, Tableau, Excel, DAX, Star-Schema Data Modeling, MySQL, PostgreSQL, Pandas, NumPy, SciPy, Matplotlib, Seaborn
 - **Backend & MLOps Deployment**: Docker, FastAPI, Flask, Django, Streamlit, Gradio, Pydantic, Git/GitHub, REST APIs, MLflow, TensorBoard, Playwright
 
-## 🏅 Honors & Awards
+## 🏅 Honors & Competitive Achievements
 
 - **1st Place in Machine Learning Academic Course** — Ain Shams University *(Jul 2025)* ([Link](https://github.com/Mhmd7syn/ML-Competition-Winner-Acquisition-Price-Prediction))
 - **2nd Place in Neural Network Academic Course** — Ain Shams University *(Feb 2026)* ([Link](https://github.com/Mhmd7syn/neural-network-competition-2026))
 - **4th Place in AI Hackathon** — Instant & Orange Digital Center *(Feb 2026)* ([Link](https://github.com/mazen200/Brain-Tumor-Segmentation))
 - **Fifty-Eighth Place (58th)** — Egyptian Collegiate Programming Contest (ECPC) *(Aug 2023)* ([Link](https://www.linkedin.com/in/mhmd7syn/details/honors/))
 - **Machine Learning: Regression and Classification** — DeepLearning.AI & Stanford University *(Oct 2024)* ([Link](https://coursera.org/verify/4PB0WG1IKI6B))
-
----
-<p align="center">Single source of truth architecture powered by automated CI/CD synchronization.</p>
