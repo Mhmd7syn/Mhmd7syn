@@ -21,7 +21,7 @@ AI and Data professional specializing in real-time computer vision, edge deep le
 | **Company Acquisition Valuation Prediction** | Data Scientist | `Python, Scikit-Learn, XGBoost, NLP` | 1st Place ML Winner: Feature extraction & XGBoost pipeline cutting feature space 30% via VIF analysis. | [View Repo](https://github.com/Mhmd7syn/ML-Competition-Winner-Acquisition-Price-Prediction) |
 | **Urban Crime Incident Analytics & Automated Imputation** | Data Analyst | `Python, Pandas, KNN Imputation, Linear Regression` | Spatial-temporal crime analytics engine with automated KNN imputation and multi-tier Power BI KPI dashboards. | [View Repo](https://github.com/Mhmd7syn/Data-Analysis-Orange-Internship) |
 | **Knowledge Graph** | Software Engineering | `Python, JavaScript, HTML5 Canvas, Knowledge Graph` | Offline-first Directory-as-Graph learning platform with interactive HTML5 Canvas and zero dependencies. | [View Repo](https://github.com/Mhmd7syn/knowledge-graph) |
-| **Job Agent** | AI Engineer / Software Engineering | `Python, FastAPI, Gemini API, Playwright` | Autonomous job aggregation copilot with Gemini API relevance scoring, desktop GUI, and multi-tier workflows. | [View Repo](https://github.com/Mhmd7syn/job-agent) |
+| **Job Agent** | AI Engineer / Software Engineering | `Python, FastAPI, LLM APIs, Playwright` | Autonomous job aggregation copilot with LLM relevance scoring, desktop GUI, and multi-tier workflows. | [View Repo](https://github.com/Mhmd7syn/job-agent) |
 
 ## 🛠️ Technical Skills
 
